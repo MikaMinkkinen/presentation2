@@ -2,29 +2,25 @@
 
 ---
 
-### Mitä me teemme?
+## Mitä me teemme?
 1. Tekniikka
-nopeus, tietoturva ja jatkokehitys
 2. Visuaalinen analyysi
-Katsaus sivustoon ja kehityskohteisiin
 3. Data-analyysi
-Analytiikan katselmointi ja tavoitteet
 4. Roadmap
-Ehdotuksia ja ideoita jatkokehitykseen
 
 ---
 
-### 1. Tekniikka
+## 1. Tekniikka
+Nopeus, tietoturva ja jatkokehitys
 
-Työvaiheet
-1. Nopeusoptimointi     
-Käyttömukavuutta, hakukone-etua
-2. Validoidut lisäosat  
+---
+
+### Työvaiheet
+1. <strong>Nopeusoptimointi</strong> - Käyttömukavuutta, hakukone-etua
+2. <strong>Validoidut lisäosat</strong> -   
 Tietoturvaa, kehitysnopeutta
-3. Sertifiointi         
-Tietoturvaa, hakukone-etua
-4. Automaattitestit     
-Kehitysnopeutta, tietoturvaa
+3. <strong>Sertifiointi</strong> - Tietoturvaa, hakukone-etua
+4. <strong>Automaattitestit</strong> - Kehitysnopeutta, tietoturvaa
 
 ---?image=img/pagespeed.png&size=contain
 
@@ -33,11 +29,13 @@ Kehitysnopeutta, tietoturvaa
 ---
 
 ### 2. Visuaalinen analyysi
-
 Asiantuntija-arvio
-1. Tavoitteet           -> Strategia
-2. Käyttäjäpolut        -> Kohdennus
-3. Kampanjat            -> Konversio
+
+---
+
+1. <strong>Tavoitteet</strong> - Strategia
+2. <strong>Käyttäjäpolut</strong> - Kohdennus
+3. <strong>Kampanjat</strong> - Konversio
 
 ---?image=img/accesspoint-page.png&size=contain
 

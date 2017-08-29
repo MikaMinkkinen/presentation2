@@ -37,11 +37,7 @@ Asiantuntija-arvio
 
 ---?image=img/accesspoint-page.png&size=contain
 
-+++
 
----?image=img/accesspoint-frontpage.png&size=contain
-
-+++
 ---
 
 ### 3. Data-analyysi
@@ -58,10 +54,6 @@ Muistilista ja arkinen viestintä
 1. Trello               -> Projektinhallinta
 2. Slack                -> Arkinen viestintä
 
----
-
-
----
 +++
 
 Install Ruby

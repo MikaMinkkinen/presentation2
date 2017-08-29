@@ -44,7 +44,7 @@ Asiantuntija-arvio
 
 ---?image=img/accesspoint-frontpage.png&size=contain
 
----?image=img/wireframes2.png&size=contain
+---?image=img/wireframes2.png&size=auto
 
 ---
 

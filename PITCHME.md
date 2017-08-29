@@ -35,11 +35,11 @@ Asiantuntija-arvio
 
 +++
 
-![Acesspoint CTA:s in page](/img/accespoint-page.png)
+![Acesspoint CTA:s in page](/img/accesspoint-page.png)
 
 +++
 
-![Acesspoint CTA:s in homepage](/img/accespoint-frontpage.png)
+![Acesspoint CTA:s in homepage](/img/accesspoint-frontpage.png)
 
 +++
 ---

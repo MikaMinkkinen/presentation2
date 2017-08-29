@@ -16,15 +16,18 @@ Nopeus, tietoturva ja jatkokehitys
 ---
 
 ### Työvaiheet
-1. <strong>Nopeusoptimointi</strong> - Käyttömukavuutta, hakukone-etua
-2. <strong>Validoidut lisäosat</strong> -   
-Tietoturvaa, kehitysnopeutta
-3. <strong>Sertifiointi</strong> - Tietoturvaa, hakukone-etua
-4. <strong>Automaattitestit</strong> - Kehitysnopeutta, tietoturvaa
+1. Nopeusoptimointi
+2. Validoidut lisäosat  
+3. Sertifiointi
+4. Automaattitestit
 
 ---?image=img/pagespeed.png&size=contain
 
 ---?image=img/wp-plugins.png&size=contain
+
+---
+
+HTTP<strong>S</strong>
 
 ---
 

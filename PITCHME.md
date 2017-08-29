@@ -24,21 +24,11 @@ Työvaiheet
 3. Sertifiointi         -> Tietoturvaa, hakukone-etua
 4. Automaattitestit     -> Kehitysnopeutta, tietoturvaa
 
-+++
-
-##### Nopeusoptimointi
+---
 
 ---?image=img/pagespeed.png&size=contain
 
-+++
-
-##### Validointi
-
 ---?image=img/wp-plugins.png&size=contain
-
-+++
-
-##### Validointi
 
 ---?image=img/wp-plugins.png&size=contain
 

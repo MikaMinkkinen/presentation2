@@ -1,6 +1,6 @@
 # Uusi digitiimi
 
----?image=img/kehittamo2.png&size=contain
+---?image=img/kehittamo2.png&size=cover
 
 ---
 

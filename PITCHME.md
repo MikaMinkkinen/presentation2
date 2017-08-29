@@ -2,6 +2,10 @@
 
 ---
 
+## Uusi digitiimi
+
+---?image=img/kehittamo.png&size=contain
+
 ## Mitä me teemme?
 1. Tekniikka
 2. Visuaalinen analyysi
@@ -27,9 +31,11 @@ Nopeus, tietoturva ja jatkokehitys
 
 ---
 
-HTTP<strong>S</strong>
+### HTTP<strong>S</strong>
 
 ---
+
+---?image=img/tests.png&size=contain
 
 ### 2. Visuaalinen analyysi
 Asiantuntija-arvio
@@ -43,6 +49,8 @@ Asiantuntija-arvio
 ---?image=img/accesspoint-page.png&size=contain
 
 ---?image=img/accesspoint-frontpage.png&size=contain
+
+---?image=img/wireframes2.png&size=contain
 
 ---
 

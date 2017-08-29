@@ -33,9 +33,11 @@ Asiantuntija-arvio
 2. Käyttäjäpolut        -> Kohdennus
 3. Kampanjat            -> Konversio
 
----?image=img/accesspoint-page.png&size=contain
+Etusivu             |  Sivu
+:-------------------------:|:-------------------------:
+![](/img/accesspoint-frontpage.png)  |  ![](accesspoint-page.png)
 
----?image=img/accesspoint-frontpage.png&size=contain
+
 
 ---
 

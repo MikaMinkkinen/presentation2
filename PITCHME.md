@@ -23,7 +23,7 @@ Nopeus, tietoturva ja jatkokehitys
 3. Sertifiointi
 4. Automaattitestit
 
----?image=img/pagespeed.png
+---?image=img/pagespeed.png&size=auto
 
 ---?image=img/wp-plugins.png&size=contain
 
@@ -53,7 +53,7 @@ Asiantuntija-arvio
 1. Datan analysointi
 2. Datan seuranta
 
----?image=img/funnell.png&size=contain
+---?image=img/funnell.png&size=auto
 
 ---
 

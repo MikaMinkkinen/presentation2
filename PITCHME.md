@@ -35,7 +35,7 @@ Asiantuntija-arvio
 
 +++
 
-![Vanilla blog] (img/accesspoint-page.png&size=contain)
+img/accesspoint-page.png&size=contain
 
 ---
 

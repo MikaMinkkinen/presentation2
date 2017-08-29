@@ -1,38 +1,67 @@
-How to get simple blog up and running using
-# Jekyll
+How to be good?
+# accesspoint.fi
 
 
 ---
 
-### Content
-1. Github
-free and powerfull hosting
-2. Jekyll
-flat stack and focus on content
-3. Gulp
-enjoy smooth development workflow
+### Mitä me teemme?
+1. Tekniikka
+nopeus, tietoturva ja jatkokehitys
+2. Visuaalinen analyysi
+Katsaus sivustoon ja kehityskohteisiin
+3. Data-analyysi
+Analytiikan katselmointi ja tavoitteet
+4. Roadmap
+Ehdotuksia ja ideoita jatkokehitykseen
 
 ---
 
-### 1. Github
+### 1. Tekniikka
 
-Just create new repository and name it:
-<span style="color:red">your_user_name</span>.github.io
-
-detailed instruction from [Github](https://pages.github.com/)
-
+Työvaiheet
+1. Nopeusoptimointi     -> Käyttömukavuutta, hakukone-etua
+2. Validoidut lisäosat  -> Tietoturvaa, kehitysnopeutta
+3. Sertifiointi         -> Tietoturvaa, hakukone-etua
+4. Automaattitestit     -> Kehitysnopeutta, tietoturvaa
 
 ---
 
-### 2. Jekyll
+### 2. Visuaalinen analyysi
 
-You’ll need Ruby as a development enviroment
-<br>
-1. GNU/Linux, Unix, or macOS
-2. Ruby version 2.0 or above
-3. RubyGems
-4. GCC and Make
+Asiantuntija-arvio
+1. Tavoitteet           -> Strategia
+2. Käyttäjäpolut        -> Kohdennus
+3. Kampanjat            -> Konversio
 
++++
+
+![Acesspoint CTA:s in page](/img/accespoin-page.png)
+
++++
+
+![Acesspoint CTA:s in homepage](/img/accespoin-frontpage.png)
+
++++
+---
+
+### 3. Data-analyysi
+
+Google Analytics, HotJar
+1. Datan analysointi    -> Tulkitaan nykyistä dataa
+2. Tavoittet            -> Luodaan tarkka raportointi
+
+---
+
+### 4. Roadmap
+
+Muistilista ja arkinen viestintä
+1. Trello               -> Projektinhallinta
+2. Slack                -> Arkinen viestintä
+
+---
+
+
+---
 +++
 
 Install Ruby

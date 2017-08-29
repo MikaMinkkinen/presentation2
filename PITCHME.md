@@ -1,6 +1,4 @@
-How to be good?
-# accesspoint.fi
-
+# How to be good?
 
 ---
 
@@ -19,15 +17,18 @@ Ehdotuksia ja ideoita jatkokehitykseen
 ### 1. Tekniikka
 
 Työvaiheet
-1. Nopeusoptimointi     -> Käyttömukavuutta, hakukone-etua
-2. Validoidut lisäosat  -> Tietoturvaa, kehitysnopeutta
-3. Sertifiointi         -> Tietoturvaa, hakukone-etua
-4. Automaattitestit     -> Kehitysnopeutta, tietoturvaa
+1. Nopeusoptimointi     
+Käyttömukavuutta, hakukone-etua
+2. Validoidut lisäosat  
+Tietoturvaa, kehitysnopeutta
+3. Sertifiointi         
+Tietoturvaa, hakukone-etua
+4. Automaattitestit     
+Kehitysnopeutta, tietoturvaa
 
 ---?image=img/pagespeed.png&size=contain
 
 ---?image=img/wp-plugins.png&size=contain
-
 
 ---
 
@@ -48,7 +49,9 @@ Asiantuntija-arvio
 
 Google Analytics, HotJar
 1. Datan analysointi    -> Tulkitaan nykyistä dataa
-2. Tavoittet            -> Luodaan tarkka raportointi
+2. Tavoitteet            -> Luodaan tarkka raportointi
+
+---?image=img/funnell.png&size=contain
 
 ---
 
@@ -57,5 +60,9 @@ Google Analytics, HotJar
 Muistilista ja arkinen viestintä
 1. Trello               -> Projektinhallinta
 2. Slack                -> Arkinen viestintä
+
+---?image=img/trello.png&size=contain
+
+---?image=img/slack.png&size=contain
 
 ---

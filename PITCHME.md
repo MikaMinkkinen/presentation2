@@ -40,9 +40,9 @@ Asiantuntija-arvio
 
 ---
 
-1. <strong>Tavoitteet</strong> - Strategia
-2. <strong>Käyttäjäpolut</strong> - Kohdennus
-3. <strong>Kampanjat</strong> - Konversio
+<strong>1. Tavoitteet</strong> - Strategia
+<strong>2. Käyttäjäpolut</strong> - Kohdennus
+<strong>3. Kampanjat</strong> - Konversio
 
 ---?image=img/accesspoint-page.png&size=contain
 
@@ -54,9 +54,8 @@ Asiantuntija-arvio
 
 ### 3. Data-analyysi
 
-Google Analytics, HotJar
-1. Datan analysointi    -> Tulkitaan nykyistä dataa
-2. Tavoitteet            -> Luodaan tarkka raportointi
+1. Datan analysointi
+2. Datan seuranta
 
 ---?image=img/funnell.png&size=contain
 
@@ -73,3 +72,5 @@ Muistilista ja arkinen viestintä
 ---?image=img/slack.jpg&size=contain
 
 ---
+
+### Kiitos!

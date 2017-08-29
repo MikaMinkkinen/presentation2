@@ -1,10 +1,6 @@
-# How to be good?
+# Uusi digitiimi
 
----
-
-## Uusi digitiimi
-
----?image=img/kehittamo.png&size=contain
+---?image=img/kehittamo2.png&size=contain
 
 ---
 
@@ -64,8 +60,8 @@ Asiantuntija-arvio
 ### 4. Roadmap
 
 Muistilista ja arkinen viestintä
-1. Trello               -> Projektinhallinta
-2. Slack                -> Arkinen viestintä
+1. Trello - Projektinhallinta
+2. Slack - Arkinen viestintä
 
 ---?image=img/trello.png&size=contain
 

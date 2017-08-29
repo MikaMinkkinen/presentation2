@@ -31,12 +31,6 @@ Nopeus, tietoturva ja jatkokehitys
 
 ---?image=img/wp-plugins.png&size=contain
 
----
-
-## HTTP<strong>S</strong>
-
----
-
 ---?image=img/tests.png&size=contain
 
 ---
@@ -76,6 +70,6 @@ Muistilista ja arkinen viestintä
 
 ---?image=img/trello.png&size=contain
 
----?image=img/slack.png&size=contain
+---?image=img/slack.jpg&size=contain
 
 ---

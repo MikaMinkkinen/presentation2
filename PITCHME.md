@@ -27,7 +27,7 @@ Nopeus, tietoturva ja jatkokehitys
 
 ---?image=img/wp-plugins.png&size=contain
 
----?image=img/tests.png&size=contain
+---?image=img/tests.png&size=auto
 
 ---
 

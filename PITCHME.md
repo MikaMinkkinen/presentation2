@@ -65,8 +65,6 @@ Muistilista ja arkinen viestintä
 
 ---?image=img/trello.png&size=contain
 
----?image=img/slack.jpg&size=contain
-
 ---
 
 ### Kiitos!

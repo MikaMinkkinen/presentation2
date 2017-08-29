@@ -26,10 +26,9 @@ Tietoturvaa, hakukone-etua
 4. Automaattitestit     
 Kehitysnopeutta, tietoturvaa
 
-<!-- .slide: data-autoslide="10000" -->
+---?image=img/pagespeed.png&size=contain
 
-![LOGO](/img/pagespeed.png)
-![LOGO](/img/wp-plugins.png)
+---?image=img/wp-plugins.png&size=contain
 
 ---
 

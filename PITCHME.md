@@ -40,9 +40,9 @@ Asiantuntija-arvio
 
 ---
 
-<strong>1. Tavoitteet</strong> - Strategia
-<strong>2. Käyttäjäpolut</strong> - Kohdennus
-<strong>3. Kampanjat</strong> - Konversio
+1. Tavoitteet - Strategia
+2. Käyttäjäpolut - Kohdennus
+3. Kampanjat - Konversio
 
 ---?image=img/accesspoint-page.png&size=contain
 

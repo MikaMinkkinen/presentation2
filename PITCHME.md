@@ -28,7 +28,6 @@ Työvaiheet
 
 ---?image=img/wp-plugins.png&size=contain
 
----?image=img/wp-plugins.png&size=contain
 
 ---
 

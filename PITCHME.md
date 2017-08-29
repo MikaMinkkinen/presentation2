@@ -26,11 +26,7 @@ Työvaiheet
 
 ---?image=img/pagespeed.png&size=contain
 
----
-
 ---?image=img/wp-plugins.png&size=contain
-
----
 
 ---?image=img/wp-plugins.png&size=contain
 

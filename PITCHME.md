@@ -41,7 +41,6 @@ Asiantuntija-arvio
 
 ---?image=img/accesspoint-frontpage.png&size=contain
 
-+++
 ---
 
 ### 3. Data-analyysi

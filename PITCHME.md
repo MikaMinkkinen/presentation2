@@ -35,7 +35,7 @@ Asiantuntija-arvio
 
 +++
 
----?image=/img/accesspoint-page.png&size=contain
+---?image=img/accesspoint-page.png&size=contain
 
 +++
 

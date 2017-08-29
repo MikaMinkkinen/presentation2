@@ -24,6 +24,24 @@ Työvaiheet
 3. Sertifiointi         -> Tietoturvaa, hakukone-etua
 4. Automaattitestit     -> Kehitysnopeutta, tietoturvaa
 
++++
+
+##### Nopeusoptimointi
+
+---?image=img/pagespeed.png&size=contain
+
++++
+
+##### Validointi
+
+---?image=img/wp-plugins.png&size=contain
+
++++
+
+##### Validointi
+
+---?image=img/wp-plugins.png&size=contain
+
 ---
 
 ### 2. Visuaalinen analyysi
@@ -33,11 +51,9 @@ Asiantuntija-arvio
 2. Käyttäjäpolut        -> Kohdennus
 3. Kampanjat            -> Konversio
 
-Etusivu             |  Sivu
-:-------------------------:|:-------------------------:
-![](/img/accesspoint-frontpage.png)  |  ![](accesspoint-page.png)
+---?image=img/accesspoint-page.png&size=contain
 
-
+---?image=img/accesspoint-frontpage.png&size=contain
 
 ---
 

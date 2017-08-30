@@ -23,9 +23,7 @@ Nopeus, tietoturva ja jatkokehitys
 3. Sertifiointi
 4. Automaattitestit
 
----?image=img/pagespeed.png&size=auto
-
----?image=img/wp-plugins.png&size=contain
+---?image=img/pagespeed.png&size=80 %
 
 ---?image=img/tests.png&size=auto
 
